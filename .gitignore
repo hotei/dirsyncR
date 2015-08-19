@@ -1,0 +1,5 @@
+*~
+*.marks
+/dirsyncR
+/dirsyncRdest
+/dirsyncRsource
