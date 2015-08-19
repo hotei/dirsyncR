@@ -9,7 +9,7 @@ dirsyncr
 
 <a href="http://travis-ci.org/hotei/dirsyncr">
 <img src="https://secure.travis-ci.org/hotei/dirsyncr.png" alt="Build Status" /></a>
-Tarvis status will be ready when some setup details are finished.
+Tarvis status should be ready soon...
 
 ![hazard]("hazard.png" "hazard")	
 

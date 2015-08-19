@@ -30,6 +30,7 @@ docs:
 	deadcode -md >> $(DOCOUT)
 	cp README-$(PROG).md README.md
 	cat $(DOCOUT) >> README.md
+	rm $(DOCOUT)
 
 neat:
 	go fmt ./...
@@ -42,8 +43,8 @@ index:
 
 clean:
 	go clean ./...
-	rm -f *~ problems.dead count.out dirsyncRsource dirsyncRdest
-	rm -f $(DOCOUT) README2.md
+	rm -f *~ problems.dead count.out dirsyncRsource dirsyncRdest README2.md
+	
 
 tar:
 	echo $(TARDIR)$(PROG)_$(VERSION)_$(DATE).tar

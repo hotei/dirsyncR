@@ -1,21 +1,21 @@
 <center>
-dirsyncr
+dirsyncR
 ===
 </center>.
 
-<h3>   <a href="http://godoc.org/github.com/hotei/dirsyncr">
-<img src="https://godoc.org/github.com/hotei/dirsyncr?status.png" alt="GoDoc" />
+<h3>   <a href="http://godoc.org/github.com/hotei/dirsyncR">
+<img src="https://godoc.org/github.com/hotei/dirsyncR?status.png" alt="GoDoc" />
 </a></h1>
 
-<a href="http://travis-ci.org/hotei/dirsyncr">
-<img src="https://secure.travis-ci.org/hotei/dirsyncr.png" alt="Build Status" /></a>
-Tarvis status will be ready when some setup details are finished.
+<a href="http://travis-ci.org/hotei/dirsyncR">
+<img src="https://secure.travis-ci.org/hotei/dirsyncR.png" alt="Build Status" /></a>
+Tarvis status should be ready soon...
 
-![hazard]("http:hazard.png" "hazard")	
+![hazard]("hazard.png" "hazard")	
 
 This "README" document is (c) 2015 David Rook. 
 
-dirsyncr is (c) 2015 David Rook - all rights reserved. The program
+dirsyncR is (c) 2015 David Rook - all rights reserved. The program
 and related files in this repository are released under BSD 2-Clause License.
 License details are at the end of this document. Bugs/issues can be reported on github.
 Comments can be sent to <hotei1352@gmail.com>. "Thank you"s, constructive 
@@ -23,7 +23,7 @@ criticism and job offers are always welcome.
 
 ### Description
 
-dirsyncr keeps two directories upto date so the contents are identical (within
+dirsyncR keeps two directories upto date so the contents are identical (within
 the resolution of the update interval).
 
 ### Why should I use it instead of rsync?
@@ -42,7 +42,7 @@ several pages long and intimidating to new users.
 
 If you have a working go installation on a Unix-like OS:
 
-> ```go get github.com/hotei/dirsyncr```
+> ```go get github.com/hotei/dirsyncR```
 
 If you don't have go installed you can always download the git repository as
 a zipfile and extract it or just browse the godoc.org if you are just curious.
@@ -84,13 +84,13 @@ NOTE:  "higher" relative priority is at top of list
 
 * [go language reference] [1] 
 * [go standard library package docs] [2]
-* [Source for dirsyncr on github] [3]
+* [Source for dirsyncR on github] [3]
 * [Go projects list(s)] [7]
 * [Excellent godoc howto by Nate Finch] [8]
 
 [1]: http://golang.org/ref/spec/ "go reference spec"
 [2]: http://golang.org/pkg/ "go package docs"
-[3]: http://github.com/hotei/dirsyncr "github.com/hotei/dirsyncr"
+[3]: http://github.com/hotei/dirsyncR "github.com/hotei/dirsyncR"
 [4]: http://golang.org/doc/go1compat.html "Go 1.x API contract"
 [5]: http://blog.golang.org/2011/06/profiling-go-programs.html "Profiling go code"
 [6]: http://golang.org/doc/articles/godoc_documenting_go_code.html "GoDoc HowTo"
@@ -104,7 +104,7 @@ Any trademarks mentioned herein are the property of their respective owners.
 
 ### License
 
-The 'dirsyncr' go program/package and demo programs are distributed under the Simplified BSD License:
+The 'dirsyncR' go program/package and demo programs are distributed under the Simplified BSD License:
 
 > Copyright (c) 2015 David Rook. All rights reserved.
 > 
