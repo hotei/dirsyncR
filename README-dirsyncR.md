@@ -7,14 +7,11 @@ dirsyncr
 <img src="https://godoc.org/github.com/hotei/dirsyncr?status.png" alt="GoDoc" />
 </a></h1>
 
-Travis tags are good but require registration at http://travis-ci.org and then
-a bit of setup to put in a tarvis.yaml file.  See their homepage 
-http://godoc.org and http://docs.travis-ci.com/user/languages/go/ for specifics.
-
-<!---
 <a href="http://travis-ci.org/hotei/dirsyncr">
 <img src="https://secure.travis-ci.org/hotei/dirsyncr.png" alt="Build Status" /></a>
---->
+Tarvis status will be ready when some setup details are finished.
+
+![hazard]("hazard.png" "hazard")	
 
 This "README" document is (c) 2015 David Rook. 
 
@@ -22,10 +19,7 @@ dirsyncr is (c) 2015 David Rook - all rights reserved. The program
 and related files in this repository are released under BSD 2-Clause License.
 License details are at the end of this document. Bugs/issues can be reported on github.
 Comments can be sent to <hotei1352@gmail.com>. "Thank you"s, constructive 
-criticism and job offers are always welcome.  If you are so inclined you may
-donate money to help me continue the project by sending PayPal contributions to
-my wife at diane@celticpapers.com. 
-
+criticism and job offers are always welcome.
 
 ### Description
 
@@ -35,7 +29,7 @@ the resolution of the update interval).
 ### Why should I use it instead of rsync?
 
 The main reason of course is that it's written in go and open source so you can 
-modify it to suit your needs.  While rsync is powerful, the list of options is
+modify it to suit your needs.  While rsync is very powerful, the list of options is
 several pages long and intimidating to new users.    
 
 ### How does it work?
