@@ -11,7 +11,7 @@ dirsyncr
 <img src="https://secure.travis-ci.org/hotei/dirsyncr.png" alt="Build Status" /></a>
 Tarvis status will be ready when some setup details are finished.
 
-![hazard]("hazard.png" "hazard")	
+![hazard]("http:hazard.png" "hazard")	
 
 This "README" document is (c) 2015 David Rook. 
 
